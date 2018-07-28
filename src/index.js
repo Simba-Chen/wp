@@ -10,6 +10,5 @@ function component() {
   
     return element;
   }
-  let xxx123 = 20
-  console.log(xxx123)
+
   document.body.appendChild(component());
